@@ -36,3 +36,6 @@ lobby-state-background-janishootout-artist = psychpsyo
 
 lobby-state-background-reclaimernuke-title = Reclaimer Nuke
 lobby-state-background-reclaimernuke-artist = GetOutMarutak
+
+lobby-state-background-FirstContact-title = First Contact
+lobby-state-background-FirstContact-artist = Sare Santamaria
