@@ -1,1 +1,9 @@
 
+- type: parallax
+  id: BackgroundSS14
+  layers:
+  - texture:
+      !type:ImageParallaxTextureSource
+      path: "/Textures/Parallaxes/BackgroundSS14.png"
+      slowness: 0.998046875
+      scale: "1, 1"
