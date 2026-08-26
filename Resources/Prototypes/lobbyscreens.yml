@@ -80,3 +80,8 @@
   title: lobby-state-background-reclaimernuke-title
   artist: lobby-state-background-reclaimernuke-artist
   
+- type: lobbyBackground
+  id: FirstContact
+  background: /Textures/_Carpmosia/LobbyScreens/FirstContact.png
+  title: lobby-state-background-FirstContact-title
+  artist: lobby-state-background-FirstContact-artist
