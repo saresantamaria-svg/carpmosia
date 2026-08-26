@@ -45,3 +45,9 @@
   background: /Textures/_Carpmosia/LobbyScreens/BestiesForever.webp
   title: lobby-state-background-bestiesforever-title
   artist: lobby-state-background-bestiesforever-artist
+
+  - type: lobbyBackground
+  id: FirstContact
+  background: /Textures/_Carpmosia/LobbyScreens/FirstContact.png
+  title: lobby-state-background-firstcontact-title
+  artist: lobby-state-background-firstcontact-artist
